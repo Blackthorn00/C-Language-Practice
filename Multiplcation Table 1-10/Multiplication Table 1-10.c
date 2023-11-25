@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main (void) /* Start of our pogram */
+void main (void) /* Start of the pogram */
 {
 	int a=1, b=1; /* declare our two variables */
 	for(a=1; a<=10; a++) /* for loop 10 times for the 1st number */
